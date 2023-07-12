@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Luis Alberto Chávez</h1>
+<h3 align="center">A passionate Python Developer and Data Scientist </h3>
 
-<!--
-**Wich0x/Wich0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Science & AI**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **open projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking to continue learning about **Data Analysis**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Wich0x](https://github.com/Wich0x)
+
+- 💬 Ask me about **Mechatronics, Internet of Things, Videogames**
+
+- 📫 How to reach me: **chavez3luis@gmail.com**
+
+- ⚡ Fun fact **I love 🎮🎮🎮**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </p>
+
+<!---
+ian333/ian333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
