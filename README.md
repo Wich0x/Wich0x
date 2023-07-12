@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mechatronics, Internet of Things, Videogames**
 
-- 📫 How to reach me: **chavez3luis@gmail.com** [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/luischavez3]
+- 📫 How to reach me: **chavez3luis@gmail.com** [![LinkedIn][linkedin-shield]][linkedin-url]
 
 - ⚡ Fun fact **I love 🎮🎮🎮**
 
