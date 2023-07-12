@@ -25,6 +25,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
 </a>
 
+<a href="https://circuitpython.org/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Adafruit_blinka_angles-left.svg/1200px-Adafruit_blinka_angles-left.svg.png" alt="Circuit Python" width="40" height="40"/> 
+</a>
+
+<a href="https://www.bloodshed.net/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> 
+</a>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/luischavez3
