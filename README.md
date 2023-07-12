@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Alberto Chávez</h1>
 <h3 align="center">A passionate Python Developer and Data Scientist </h3>
 
-- 🌱 I’m currently learning **Data Science & AI**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 👯 I’m looking to collaborate on **open projects**
 
