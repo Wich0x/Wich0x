@@ -38,11 +38,11 @@
 </a>
 
 <a href="https://deepnote.com/" target="_blank"> 
-<img src="https://avatars.githubusercontent.com/u/45339858?s=200&v=4" alt="Deepnote" width="40" height="40"/> 
+<img src="https://cdn.sanity.io/images/0hdzqj39/production/2d10e1c7a4ac910fcd8635da78bb9053d8f8351e-471x471.png" alt="Deepnote" width="40" height="40"/> 
 </a>
 
 <a href="https://colab.research.google.com/?hl=es" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="40" height="40"/> 
+<img src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab" width="40" height="40"/> 
 </a>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
