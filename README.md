@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wich0x](https://github.com/Wich0x)
 
-- 💬 Ask me about **Mechatronics, Internet of Things, Videogames**
+- 💬 Ask me about **Mechatronics, Internet of Things and Videogames**
 
 - 📫 How to reach me: **chavez3luis@gmail.com** and [![LinkedIn][linkedin-shield]][linkedin-url]
 
