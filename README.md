@@ -33,5 +33,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> 
 </a>
 
+<a href="https://www.scilab.org/" target="_blank"> 
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/scilab_104094.png" alt="Scilab" width="40" height="40"/> 
+</a>
+
+<a href="https://deepnote.com/" target="_blank"> 
+<img src="https://avatars.githubusercontent.com/u/45339858?s=200&v=4" alt="Deepnote" width="40" height="40"/> 
+</a>
+
+<a href="https://colab.research.google.com/?hl=es" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="40" height="40"/> 
+</a>
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/luischavez3
